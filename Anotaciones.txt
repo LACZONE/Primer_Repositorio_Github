@@ -1,0 +1,28 @@
+crear un repositorio desde cero
+
+mkdir: creamos un directorio 
+
+git init: trasnsforma un directorio normal en un repositorio, 
+el cual vamos a utilizar posteriormente para trabajar con los archivos. creamos de esta manera a un repositorio local
+ 
+ls : lee todos los repositorios qeu esten dentro de donde iniciamos o abrimos por defecto
+
+ls -ltr : lee todos los repositorios que tengamos donde abrimos  para leer
+
+cd: se usa para ingresar a los directorios
+
+git status: nos da el estado de como esta el repositorio actualmente
+untracked: que el versionador no esta llevando registro de que sucede con ese repositorio.
+git add:hace que git lleve el registro de la actividad de un archivo, 
+
+
+"master": es la rama o "arbol" principal donde estamos parando. representa o deberia 
+representar la vercion productiva de un proyecto o aplicacion.
+
+siempre que los comandos arranquen con nombres de comandos
+son comandos propios de la consola (ejemplo mkdir, ls,cd, ls -ltr)
+
+los comandos propios de git siempre arrancan con la palabra git primero
+
+git commit: comando para guardar los cambios en los repositorios locales, debe ponerse -m + "",
+con un comentario proque si no, no se guardan los cambios, el commit no se aplica
