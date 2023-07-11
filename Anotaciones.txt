@@ -26,3 +26,6 @@ los comandos propios de git siempre arrancan con la palabra git primero
 
 git commit: comando para guardar los cambios en los repositorios locales, debe ponerse -m + "",
 con un comentario proque si no, no se guardan los cambios, el commit no se aplica
+
+git lab y git hub: repositorios remotos donde se guardan los proyectos de la app y la propia app, 
+se utiliza para las empresas en la acutalidad
