@@ -29,6 +29,7 @@ con un comentario proque si no, no se guardan los cambios, el commit no se aplic
 
 git lab y git hub: repositorios remotos donde se guardan los proyectos de la app y la propia app, 
 se utiliza para las empresas en la acutalidad
+<<<<<<< HEAD
 
 git log: muestras los commit al detalle
 
@@ -52,3 +53,6 @@ eso lo hacemos con el comando git pull
 
 
 
+=======
+agregado en el remoto
+>>>>>>> 9149f055791e491d3cbcfaf8d9b1a0ca92d1d6dd
