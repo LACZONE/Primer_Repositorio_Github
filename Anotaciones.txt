@@ -29,7 +29,6 @@ con un comentario proque si no, no se guardan los cambios, el commit no se aplic
 
 git lab y git hub: repositorios remotos donde se guardan los proyectos de la app y la propia app, 
 se utiliza para las empresas en la acutalidad
-<<<<<<< HEAD
 
 git log: muestras los commit al detalle
 
@@ -49,10 +48,9 @@ lo que esta en rojo es el remoto
 antes de subir un nuevo archivo hay que primero bajarel ya existente por si alguien realiso algun cambio, 
 eso lo hacemos con el comando git pull 
 
+anotacion*
+git pull: bajar los archivos del remoto.
+git push: subir los archivos al remoto.
 
 
-
-
-=======
-agregado en el remoto
->>>>>>> 9149f055791e491d3cbcfaf8d9b1a0ca92d1d6dd
+borre lo del remoto
