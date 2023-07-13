@@ -54,3 +54,6 @@ git push: subir los archivos al remoto.
 
 
 borre lo del remoto
+
+git clone +url + detalle al final: descarga los nuevos repositorios remotos al local
+
