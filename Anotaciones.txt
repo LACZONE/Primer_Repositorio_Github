@@ -29,3 +29,19 @@ con un comentario proque si no, no se guardan los cambios, el commit no se aplic
 
 git lab y git hub: repositorios remotos donde se guardan los proyectos de la app y la propia app, 
 se utiliza para las empresas en la acutalidad
+
+git log: muestras los commit al detalle
+
+git log --oneline: muestas menos detalles y qeu comid es en el qeu estamos parados
+
+"buscar aplicacion para guardar contraseñas" una opcion es keepass
+
+"un repositorio en git hub, osea la url, se conforma de la siguiente manera: del usuario y  nombre del repositorio
+
+git remote -v: vemos elos repositorios enlasados
+
+git push: es para enviar nuestro repositorio local al remoto
+
+
+
+
