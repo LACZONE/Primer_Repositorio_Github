@@ -29,3 +29,4 @@ con un comentario proque si no, no se guardan los cambios, el commit no se aplic
 
 git lab y git hub: repositorios remotos donde se guardan los proyectos de la app y la propia app, 
 se utiliza para las empresas en la acutalidad
+agregado en el remoto
