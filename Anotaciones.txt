@@ -42,6 +42,13 @@ git remote -v: vemos elos repositorios enlasados
 
 git push: es para enviar nuestro repositorio local al remoto
 
+donde dice hear master con el comando git log --oneline es donde estamos parados, el local
+lo que esta en rojo es el remoto
+
+antes de subir un nuevo archivo hay que primero bajarel ya existente por si alguien realiso algun cambio, 
+eso lo hacemos con el comando git pull 
+
+
 
 
 
