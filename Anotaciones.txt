@@ -25,7 +25,10 @@ son comandos propios de la consola (ejemplo mkdir, ls,cd, ls -ltr)
 los comandos propios de git siempre arrancan con la palabra git primero
 
 git commit: comando para guardar los cambios en los repositorios locales, debe ponerse -m + "",
-con un comentario proque si no, no se guardan los cambios, el commit no se aplica
+con un comentario proque si no, no se guardan los cambios, el commit no se aplica 
+(cuando se hace git -a -m no traquea los archivos nuevos (los archivos untracked no los commitea), 
+hay que hacer git add a los archivos nuevos)
+git add. : agraga todos los archivos al versionador (envia todo de un saque)
 
 git lab y git hub: repositorios remotos donde se guardan los proyectos de la app y la propia app, 
 se utiliza para las empresas en la acutalidad
